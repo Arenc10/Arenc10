@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arenc</h1>
 <h3 align="center">I'm a Software Engineer student at Holberton School Albania.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arenc10" alt="arenc10" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arenc10&no-frame=true&them=algolia" alt="arenc10" /></a> </p>
 
 - 🔭 I’m currently working on [Simple Shell](https://github.com/KristiSeraj/simple_shell)
 
